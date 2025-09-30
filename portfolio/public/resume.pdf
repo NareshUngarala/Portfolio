@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#ffffff"/>
+  <text x="400" y="100" font-family="Arial" font-size="32" text-anchor="middle" font-weight="bold">Touhidul Islam Chayan</text>
+  <text x="400" y="140" font-family="Arial" font-size="20" text-anchor="middle">Software Engineer</text>
+  <text x="400" y="180" font-family="Arial" font-size="16" text-anchor="middle">moin24@gmail.com | +1-(647)-679-4219</text>
+  <text x="400" y="210" font-family="Arial" font-size="16" text-anchor="middle">Peterborough, Ontario, Canada</text>
+  
+  <text x="100" y="280" font-family="Arial" font-size="24" font-weight="bold">Summary</text>
+  <line x1="100" y1="290" x2="700" y2="290" stroke="#f97316" stroke-width="2"/>
+  <text x="100" y="320" font-family="Arial" font-size="14">Software engineer specializing in front-end development, UI/UX design, and machine learning.</text>
+  <text x="100" y="345" font-family="Arial" font-size="14">Experienced with TypeScript/JavaScript, React, Next.js, Node.js, and various frameworks.</text>
+  
+  <text x="100" y="400" font-family="Arial" font-size="24" font-weight="bold">Experience</text>
+  <line x1="100" y1="410" x2="700" y2="410" stroke="#f97316" stroke-width="2"/>
+  <text x="100" y="440" font-family="Arial" font-size="18" font-weight="bold">Senior Frontend Developer</text>
+  <text x="100" y="465" font-family="Arial" font-size="16">Tech Innovations Inc. | 2022 - Present</text>
+  
+  <text x="100" y="520" font-family="Arial" font-size="18" font-weight="bold">Full Stack Developer</text>
+  <text x="100" y="545" font-family="Arial" font-size="16">Digital Solutions Ltd. | 2020 - 2022</text>
+  
+  <text x="100" y="600" font-family="Arial" font-size="24" font-weight="bold">Education</text>
+  <line x1="100" y1="610" x2="700" y2="610" stroke="#f97316" stroke-width="2"/>
+  <text x="100" y="640" font-family="Arial" font-size="18" font-weight="bold">Master of Computer Science</text>
+  <text x="100" y="665" font-family="Arial" font-size="16">University of Toronto | 2020 - 2022</text>
+  
+  <text x="100" y="700" font-family="Arial" font-size="18" font-weight="bold">Bachelor of Computer Science</text>
+  <text x="100" y="725" font-family="Arial" font-size="16">University of Waterloo | 2016 - 2020</text>
+  
+  <text x="100" y="780" font-family="Arial" font-size="24" font-weight="bold">Skills</text>
+  <line x1="100" y1="790" x2="700" y2="790" stroke="#f97316" stroke-width="2"/>
+  <text x="100" y="820" font-family="Arial" font-size="14">Frontend: HTML/CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS</text>
+  <text x="100" y="845" font-family="Arial" font-size="14">Backend: Node.js, Express.js, Next.js API, RESTful APIs</text>
+  <text x="100" y="870" font-family="Arial" font-size="14">Database: MongoDB, MySQL, PostgreSQL, Firebase</text>
+  <text x="100" y="895" font-family="Arial" font-size="14">Machine Learning: Python, TensorFlow, PyTorch, Computer Vision</text>
+</svg>
